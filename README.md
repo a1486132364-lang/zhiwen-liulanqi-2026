@@ -81,7 +81,9 @@
 
 知名自动化工具厂商ZennoLab旗下的反检测浏览器，可无缝对接ZennoPoster自动化脚本，专为批量自动化运营、流量套利场景打造，是自动化运营从业者的优选。产品仅支持Windows系统，可实现全流程的自动化运营操作，大幅提升运营效率。价格方面，基础版每月20美元起，同时提供永久免费套餐。
 
-### 林肯法球（Lincoln Sphere）
+### 林肯法球2（Lincoln Sphere2）(https://ls.app/)
+<img width="1646" height="672" alt="image" src="https://github.com/user-attachments/assets/7b28baf1-6ab4-46b3-a732-6b54ce25f856" />
+
 俄罗斯及俄语区市场的主流反检测指纹浏览器，主打高匿名性与指纹防关联能力，对俄语区主流平台适配性极强，是俄语区出海运营的核心选型。产品支持Windows、macOS双系统，环境隔离效果出众。价格体系上，基础版每月30美元起，同时提供永久免费套餐。
 
 ### Whoer Browser
